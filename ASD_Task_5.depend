@@ -7,3 +7,23 @@
 	<windows.h>
 	<iostream>
 
+1519485043 source:e:\dokumen & tugas\tugas\semester 2\struktur data\pelajaran\task adf\asd_task_5\list.cpp
+	"list.h"
+
+1519312199 e:\dokumen & tugas\tugas\semester 2\struktur data\pelajaran\task adf\asd_task_5\list.h
+	<string>
+	<windows.h>
+	<iostream>
+
+1519488437 source:e:\dokumen & tugas\tugas\semester 2\struktur data\pelajaran\task adf\asd_task_5\main.cpp
+	"player.h"
+	"list.h"
+	<conio.h>
+
+1519059297 e:\dokumen & tugas\tugas\semester 2\struktur data\pelajaran\task adf\asd_task_5\player.h
+	"list.h"
+
+1519483295 source:e:\dokumen & tugas\tugas\semester 2\struktur data\pelajaran\task adf\asd_task_5\player.cpp
+	"player.h"
+	<ctime>
+
